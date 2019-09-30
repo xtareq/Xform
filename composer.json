@@ -1,0 +1,19 @@
+{
+    "name": "tareq/xform",
+    "description": "This is a form helper for larave with bootstrap 3 support.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xtareq",
+            "email": "xtrinsic96@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+        "autoload": {
+        "psr-4": {
+            "Xtareq\\Xform\\": "src/"
+        }
+    }
+}
